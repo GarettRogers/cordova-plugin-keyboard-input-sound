@@ -11,6 +11,6 @@
         <param name="ios-package" value="KeyboardInputSound" />
       </feature>
     </config-file>
-    <source-file src="src/ios/CDVKeyboardInputSound.m" />
+    <source-file src="src/ios/KeyboardInputSound.m" />
   </platform>
 </plugin>
