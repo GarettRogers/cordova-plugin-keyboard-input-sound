@@ -1,14 +1,14 @@
 #import <Cordova/CDV.h>
 #import <UIKit/UIKit.h>
 
-@interface CDVKeyboardInputSound : CDVPlugin {
+@interface KeyboardInputSound : CDVPlugin {
 }
 
 - (void)play:(CDVInvokedUrlCommand*)command;
 
 @end
 
-@implementation CDVKeyboardInputSound
+@implementation KeyboardInputSound
 
 - (void)play:(CDVInvokedUrlCommand*)command
 {
